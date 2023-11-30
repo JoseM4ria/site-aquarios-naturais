@@ -1,0 +1,1 @@
+web: gunicorn aquariosnaturais.wsgi --log-file -
